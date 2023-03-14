@@ -29,16 +29,24 @@ img {
 }
 
 .about {
-    text-align: center;
+    text-align: justify;
+    padding-left: 250px;
+    padding-right: 250px;
+    font-size: 24px;
+    letter-spacing: 5px;
+    line-height: 2;
 }
 
 #about-us{
+    text-align: center;
     text-decoration: underline;
+    font-size: 36px;
 }
 
 #team {
     text-align: center;
     text-decoration: underline;
+    font-size: 36px;
 }
 
 .team-member {
